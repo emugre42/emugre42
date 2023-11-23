@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Emirhan Ulgen, @emugre42
 - 👀 I’m interested in football and coding
-- 🌱 I’m currently learning Python language
-- 💞️ I’m looking to collaborate on web designing
+- I am studying Computer Science in the University of Greenwich
 - 📫 You can reach me by email, cimbomtheconqueror@gmail.com or eu5264q@gre.ac.uk
 
 <!---
