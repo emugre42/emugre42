@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emirhan Ulgen, @emugre42
-- 👀 I’m interested in UI/UX and video editing
+- 👀 I’m interested in Python Game Development
 - I am studying Computer Science in the University of Greenwich
 - 📫 You can reach me by email, cimbomtheconqueror@gmail.com or eu5264q@gre.ac.uk
 
